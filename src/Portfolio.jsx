@@ -37,18 +37,7 @@ export default function Portfolio() {
         tech: 'Unity, Oculus SDK, Visual Studio'
       }
     },
-    {
-      id: 2,
-      type: 'VR',
-      title: 'V20 Cricket',
-      video: 'https://drive.google.com/file/d/1P-UvII9sA2ztHPO4Q14kqeIm8K6mKaNl/preview',
-      sections: {
-        description: 'V20 Cricket is a virtual reality cricket simulator where players use Oculus controllers as a bat in a 360° stadium. The game features various bowling types and animations.',
-        role: 'Worked with animation states in Unity, designed interactive UI, implemented UI animation, and performed debugging.',
-        tech: 'Unity, Oculus SDK, Visual Studio'
-      }
-    },
-    {
+     {
       id: 3,
       type: 'VR',
       title: 'Home Walkthrough',
@@ -59,7 +48,7 @@ export default function Portfolio() {
         tech: 'Unity, Meta SDK, Visual Studio'
       }
     },
-     {
+    {
       id: 7,
       type: 'VR',
       title: 'Boo Bangla',
@@ -67,6 +56,17 @@ export default function Portfolio() {
       sections: {
         description: 'A horror-themed VR walkthrough game where the player explores a haunted mansion filled with jumpscares and atmospheric effects.',
         role: 'Worked on game and level design with immersive UI.',
+        tech: 'Unity, Oculus SDK, Visual Studio'
+      }
+    },
+    {
+      id: 2,
+      type: 'VR',
+      title: 'V20 Cricket',
+      video: 'https://drive.google.com/file/d/1P-UvII9sA2ztHPO4Q14kqeIm8K6mKaNl/preview',
+      sections: {
+        description: 'V20 Cricket is a virtual reality cricket simulator where players use Oculus controllers as a bat in a 360° stadium. The game features various bowling types and animations.',
+        role: 'Worked with animation states in Unity, designed interactive UI, implemented UI animation, and performed debugging.',
         tech: 'Unity, Oculus SDK, Visual Studio'
       }
     },
